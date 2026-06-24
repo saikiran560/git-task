@@ -1,3 +1,8 @@
 hello worked
+<<<<<<< HEAD
 git hello
  test branch
+=======
+hello git
+ feature branch
+>>>>>>> f6bfd2b (feature branch commit)
